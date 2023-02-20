@@ -8,5 +8,6 @@
             "css": ["style.css"],
 			"matches": ["https://www.linkedin.com/*"]
 		}
-	]
+	],
+    "permissions": ["activeTab"]
 }
